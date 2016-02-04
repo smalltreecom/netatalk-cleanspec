@@ -1,0 +1,2 @@
+# netatalk-cleanspec
+Netatalk (Cleanspec)
